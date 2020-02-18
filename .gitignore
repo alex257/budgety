@@ -3,6 +3,8 @@
 
 app0.js 
 
+vscode
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
